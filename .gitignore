@@ -1,4 +1,15 @@
 # sphinx build directories
+addons
+debian
+doc
+odoo-bin
+odoo
+setup.cfg
+setup.py
+setup
+requirements.txt
+README.md
+SECURITY.md
 _build/
 venv
 /venv
