@@ -55,5 +55,5 @@ if uid:
                 }])
                 print("Product created with ID:", product_id)
 
-            if count == 1:
+            if count == 200:
                 break
