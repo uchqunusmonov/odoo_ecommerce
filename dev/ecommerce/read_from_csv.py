@@ -5,9 +5,9 @@ import requests
 import base64
 
 url = "http://localhost:8069"
-db = 'ecommerce'
-username = 'usmonov_uchqun@mail.ru'
-password = 'admin_2003'
+db = 'db_name'
+username = ''
+password = ''
 
 common = xmlrpc.client.ServerProxy('{}/xmlrpc/2/common'.format(url))
 # authentication
